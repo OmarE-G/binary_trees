@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "bt.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_node - bt node
